@@ -1,0 +1,7 @@
+﻿  Source.cpp
+Source.cpp(145): warning C4267: '=': conversion from 'size_t' to 'ULONG', possible loss of data
+  Generating code
+  All 273 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Populous Level2 to Level3.vcxproj -> C:\Users\Brand\OneDrive\Documents\PopTB\Source\Tools\Populous Level2 to Level3\x64\Release\Populous Level2 to Level3.exe
+  Populous Level2 to Level3.vcxproj -> C:\Users\Brand\OneDrive\Documents\PopTB\Source\Tools\Populous Level2 to Level3\x64\Release\Populous Level2 to Level3.pdb (Full PDB)
